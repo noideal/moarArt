@@ -1,0 +1,32 @@
+{
+  "objectName" : "mucha_amethyst",
+  "rarity" : "Rare",
+  "category" : "decorative",
+  "price" : 25000,
+
+  "apexDescription" : "",
+  "avianDescription" : "",
+  "floranDescription" : "",
+  "glitchDescription" : "",
+  "humanDescription" : " I wonder how much a copy costs.",
+  "hylotlDescription" : "",
+  "novakidDescription" : "",
+
+  "description" : "",
+  "shortdescription" : "Amethyst",
+  "race" : "generic",
+
+  "inventoryIcon" : "mucha_amethysticon.png",
+  "orientations" : [
+    {
+      "image" : "mucha_preciousstones.png:amethyst",
+      "imagePosition" : [-19, -45],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+	  
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

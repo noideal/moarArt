@@ -1,0 +1,32 @@
+{
+  "objectName" : "vangogh_cafeterrace",
+  "rarity" : "Rare",
+  "category" : "decorative",
+  "price" : 25000,
+
+  "apexDescription" : "I've never been issued a coffee.",
+  "avianDescription" : "A nice perch.",
+  "floranDescription" : "It'ss sso unnatural!",
+  "glitchDescription" : "I'm not sure what the function is.",
+  "humanDescription" : "A cafe terrace.",
+  "hylotlDescription" : "Apparently they serve 'beverages'.",
+  "novakidDescription" : "A nice place for a drink.",
+
+  "description" : "It's night, and there's a terrace.",
+  "shortdescription" : "Caffe Terrace at Night",
+  "race" : "generic",
+
+  "inventoryIcon" : "vangogh_cafeterraceicon.png",
+  "orientations" : [
+    {
+      "image" : "vangogh_cafeterrace.png:<color>",
+      "imagePosition" : [-14, -17],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

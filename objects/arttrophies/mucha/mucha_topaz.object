@@ -1,0 +1,32 @@
+{
+  "objectName" : "mucha_topaz",
+  "rarity" : "Rare",
+  "category" : "decorative",
+  "price" : 25000,
+
+  "apexDescription" : "I wonder how much a copy costs.",
+  "avianDescription" : "",
+  "floranDescription" : "",
+  "glitchDescription" : "",
+  "humanDescription" : "",
+  "hylotlDescription" : "",
+  "novakidDescription" : "",
+
+  "description" : "",
+  "shortdescription" : "Topaz",
+  "race" : "generic",
+
+  "inventoryIcon" : "mucha_topazicon.png",
+  "orientations" : [
+    {
+      "image" : "mucha_preciousstones.png:topaz",
+      "imagePosition" : [-19, -45],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

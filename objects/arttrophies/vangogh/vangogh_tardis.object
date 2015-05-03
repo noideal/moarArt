@@ -1,0 +1,32 @@
+{
+  "objectName" : "vangogh_tardis",
+  "rarity" : "Rare",
+  "category" : "decorative",
+  "price" : 25000,
+
+  "apexDescription" : "Top teir issued decoration.",
+  "avianDescription" : "Beautiful.",
+  "floranDescription" : "Very nicce.",
+  "glitchDescription" : "A lot of time went into this.",
+  "humanDescription" : "The focus on a single moment..",
+  "hylotlDescription" : "Looks very dry.",
+  "novakidDescription" : "Reminds me of home.",
+
+  "description" : "A blue phone booth, exploding.",
+  "shortdescription" : "Tardis Explodes",
+  "race" : "generic",
+
+  "inventoryIcon" : "vangogh_tardis.png",
+  "orientations" : [
+    {
+      "image" : "vangogh_tardis.png:<color>",
+      "imagePosition" : [-24, -13],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "objectName" : "monet_waterlilies",
+  "rarity" : "Rare",
+  "category" : "decorative",
+  "price" : 25000,
+
+  "apexDescription" : "",
+  "avianDescription" : "",
+  "floranDescription" : "",
+  "glitchDescription" : "",
+  "humanDescription" : "",
+  "hylotlDescription" : "",
+  "novakidDescription" : "",
+
+  "description" : "",
+  "shortdescription" : "Waterlilies",
+  "race" : "generic",
+
+  "inventoryIcon" : "monet_waterliliesicon.png",
+  "orientations" : [
+    {
+      "image" : "monet_waterlilies.png:<color>",
+      "imagePosition" : [-18, -18],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

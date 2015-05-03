@@ -1,0 +1,9 @@
+{
+  "frameGrid" : {
+    "size" : [38, 90],
+    "dimensions" : [4, 1],
+    "names" : [
+      [ "ruby", "amethyst", "emerald", "topaz" ]
+    ]
+  }
+}

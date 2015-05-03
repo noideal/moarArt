@@ -1,0 +1,12 @@
+{
+  "name" : "moarNames",
+  "version" : "Beta v. Upbeat Giraffe",
+  "path" : ".",
+  "dependencies" : [ ],
+  "metadata": {
+    "author" : "Glu",
+    "description" : "Adds Greek, Cartoon, Philosophy, Literature, and Science Names to the Universe.",
+	"version" : "001a",
+    "support_url" : ""
+  }
+}
