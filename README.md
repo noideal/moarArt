@@ -6,4 +6,4 @@ Import into your Starbound mods directory and enjoy!
 
 To do:
   - Add art to treasure pools
-  - MOAR moar Art
+  - MOAR moar Art (dali)
