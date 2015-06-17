@@ -1,0 +1,32 @@
+{
+  "objectName" : "pollock_autumnrhythm",
+  "rarity" : "Rare",
+  "category" : "decorative",
+  "price" : 25000,
+
+  "apexDescription" : "I've never been issued a coffee.",
+  "avianDescription" : "A nice perch.",
+  "floranDescription" : "It'ss sso unnatural!",
+  "glitchDescription" : "I'm not sure what the function is.",
+  "humanDescription" : "A cafe terrace.",
+  "hylotlDescription" : "Apparently they serve 'beverages'.",
+  "novakidDescription" : "A nice place for a drink.",
+
+  "description" : "The painting consists of chaotic black, white and brown paint patterns on an unpainted canvas background.",
+  "shortdescription" : "Some sort of 'Art'",
+  "race" : "generic",
+
+  "inventoryIcon" : "pollock_autumnrhythm.png",
+  "orientations" : [
+    {
+      "image" : "pollock_autumnrhythm.png:<color>",
+      "imagePosition" : [-14, -9],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

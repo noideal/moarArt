@@ -1,0 +1,32 @@
+{
+  "objectName" : "murakami_newday",
+  "rarity" : "Rare",
+  "category" : "decorative",
+  "price" : 25000,
+
+  "apexDescription" : "",
+  "avianDescription" : "",
+  "floranDescription" : "",
+  "glitchDescription" : "",
+  "humanDescription" : " I wonder how much a copy costs.",
+  "hylotlDescription" : "",
+  "novakidDescription" : "",
+
+  "description" : "",
+  "shortdescription" : "Amethyst",
+  "race" : "generic",
+
+  "inventoryIcon" : "murakami_newday.png",
+  "orientations" : [
+    {
+      "image" : "murakami_newday:amethyst",
+      "imagePosition" : [-22, -16],
+      "frames" : 1,
+      "animationCycle" : 0.5,
+	  
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}
