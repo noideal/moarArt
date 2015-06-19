@@ -19,7 +19,7 @@
   "inventoryIcon" : "murakami_newday.png",
   "orientations" : [
     {
-      "image" : "murakami_newday:amethyst",
+      "image" : "murakami_newday.png:<color>",
       "imagePosition" : [-22, -16],
       "frames" : 1,
       "animationCycle" : 0.5,
