@@ -8,5 +8,7 @@ Import into your Starbound mods directory and enjoy!
  
 To do:
   - Add art to treasure pools
-  - MOAR moar Art (dali, pollock, murakami)
+  - MOAR moarArt (daVinci, mondrian, botticelli, 
+  - Philosopher Busts (Socrates, Pythagoras, Eratosthenes, Nietzsche, Quine, Russell)
+  - Plato's Beard (costume, "It appears to be tangled")
   - resize paintings to true-to-piece size (or something that makes sense in game)
