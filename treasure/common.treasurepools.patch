@@ -1,0 +1,38 @@
+[
+ {"op" : "replace", "path" : "/basicTreasure/0", "value" : [0,
+		{"pool" : [
+        {"weight" : 0.35, "pool" : "chestMoney"},
+        {"weight" : 0.15, "pool" : "healingItem"},
+        {"weight" : 0.15, "pool" : "ore"},
+        {"weight" : 0.1, "pool" : "weapon"},
+        {"weight" : 0.1, "pool" : "food"},
+        {"weight" : 0.05, "pool" : "seed"},
+        {"weight" : 0.04, "pool" : "tool"},
+        {"weight" : 0.04, "pool" : "shield"},
+        {"weight" : 0.012, "pool" : "instrument"},
+        {"weight" : 0.005, "pool" : "costume"},
+        {"weight" : 0.003, "pool" : "moarArt"},
+        {"weight" : 0.003, "item" : "teleportercore"}
+      ]
+    }]
+ },
+
+ {"op" : "add", "path" : "/moarArt", "value" : [[0, 
+		{"pool" : [
+        {"weight" : 0.0005, "item" : [ "dali_toreador", 1]},
+        {"weight" : 0.0003, "item" : [ "monet_waterlilies", 1]},
+        {"weight" : 0.0005, "item" : [ "mucha_amethyst", 1]},
+        {"weight" : 0.0005, "item" : [ "mucha_emerald", 1]},
+        {"weight" : 0.0005, "item" : [ "mucha_ruby", 1]},
+        {"weight" : 0.0005, "item" : [ "mucha_topaz", 1]},
+        {"weight" : 0.0007, "item" : [ "murakami_newday", 1]},
+        {"weight" : 0.0007, "item" : [ "picasso_bull", 1]},
+        {"weight" : 0.0007, "item" : [ "picasso_oldguitarist", 1]},
+        {"weight" : 0.0007, "item" : [ "pollock_autumnrhythm", 1]},
+        {"weight" : 0.0007, "item" : [ "vangogh_cafeterrace", 1]},
+        {"weight" : 0.0001, "item" : [ "vangogh_tardis", 1]},
+        {"weight" : 0.0007, "item" : [ "vangogh_wheatfield", 1]}
+      ]
+    }]]
+ }
+]
