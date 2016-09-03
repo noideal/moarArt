@@ -1,8 +1,10 @@
 {
   "objectName" : "monet_waterlilies",
+  "colonyTags" : ["pretty","valuable","giantflower"],
   "rarity" : "Rare",
   "category" : "decorative",
   "price" : 25000,
+  "printable" : false,
 
   "apexDescription" : "",
   "avianDescription" : "",
@@ -21,8 +23,7 @@
     {
       "image" : "monet_waterlilies.png:<color>",
       "imagePosition" : [-18, -18],
-      "frames" : 1,
-      "animationCycle" : 0.5,
+      "direction" : "right",
 
       "spaceScan" : 0.1,
       "anchors" : [ "background" ]

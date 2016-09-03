@@ -1,8 +1,10 @@
 {
   "objectName" : "picasso_bull",
+  "colonyTags" : ["pretty","valuable","odd"],
   "rarity" : "Rare",
   "category" : "decorative",
   "price" : 25000,
+  "printable" : false,
 
   "apexDescription" : "A bull?",
   "avianDescription" : "Some sort of walking nest.",
@@ -21,8 +23,7 @@
     {
       "image" : "picasso_bull.png:<color>",
       "imagePosition" : [-14, -17],
-      "frames" : 1,
-      "animationCycle" : 0.5,
+      "direction" : "right",
 
       "spaceScan" : 0.1,
       "anchors" : [ "background" ]

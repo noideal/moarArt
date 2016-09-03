@@ -1,8 +1,10 @@
 {
   "objectName" : "mucha_topaz",
+  "colonyTags" : ["pretty","valuable","odd"],
   "rarity" : "Rare",
   "category" : "decorative",
   "price" : 25000,
+  "printable" : false,
 
   "apexDescription" : "I wonder how much a copy costs.",
   "avianDescription" : "",
@@ -21,8 +23,7 @@
     {
       "image" : "mucha_preciousstones.png:topaz",
       "imagePosition" : [-19, -45],
-      "frames" : 1,
-      "animationCycle" : 0.5,
+      "direction" : "right",
 
       "spaceScan" : 0.1,
       "anchors" : [ "background" ]

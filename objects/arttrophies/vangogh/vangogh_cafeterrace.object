@@ -1,8 +1,10 @@
 {
   "objectName" : "vangogh_cafeterrace",
+  "colonyTags" : ["pretty","valuable","odd"],
   "rarity" : "Rare",
   "category" : "decorative",
   "price" : 25000,
+  "printable" : false,
 
   "apexDescription" : "I've never been issued a coffee.",
   "avianDescription" : "A nice perch.",
@@ -21,8 +23,7 @@
     {
       "image" : "vangogh_cafeterrace.png:<color>",
       "imagePosition" : [-14, -17],
-      "frames" : 1,
-      "animationCycle" : 0.5,
+      "direction" : "right",
 
       "spaceScan" : 0.1,
       "anchors" : [ "background" ]

@@ -1,13 +1,13 @@
 {
   "name" : "moarArt",
-  "version" : "Beta v. Upbeat Giraffe",
+  "version" : "1.0.2 (Release)",
   "path" : ".",
-  "dependencies" : [ ],
+  "dependencies" : [],
   "metadata": {
 	"displayName" : "moarArt™",
     "author" : "Glu",
     "description" : "such art.",
-	"version" : "003a",
+	"version" : "0.1.0",
     "support_url" : "http://community.playstarbound.com/resources/moarart.2984/"
   }
 }
