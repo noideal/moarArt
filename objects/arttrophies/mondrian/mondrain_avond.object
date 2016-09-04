@@ -1,0 +1,33 @@
+{
+  "objectName" : "mondrain_avond",
+  "colonyTags" : ["valuable","odd"],
+  "rarity" : "Rare",
+  "category" : "decorative",
+  "price" : 25000,
+  "printable" : false,
+
+  "apexDescription" : "",
+  "avianDescription" : "",
+  "floranDescription" : "",
+  "glitchDescription" : "",
+  "humanDescription" : "",
+  "hylotlDescription" : "",
+  "novakidDescription" : "",
+
+  "description" : "",
+  "shortdescription" : "",
+  "race" : "generic",
+
+  "inventoryIcon" : "mondrain_avond.png",
+  "orientations" : [
+    {
+      "image" : "mondrain_avond.png:<color>",
+      "imagePosition" : [-13, -13],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

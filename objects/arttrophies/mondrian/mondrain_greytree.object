@@ -1,0 +1,34 @@
+{
+  "objectName" : "mondrain_greytree",
+  "colonyTags" : ["valuable","odd"],
+  "rarity" : "Rare",
+  "category" : "decorative",
+  "price" : 25000,
+  "printable" : false,
+
+  "apexDescription" : "",
+  "avianDescription" : "",
+  "floranDescription" : "",
+  "glitchDescription" : "",
+  "humanDescription" : "",
+  "hylotlDescription" : "",
+  "novakidDescription" : "",
+
+  "description" : "",
+  "shortdescription" : "",
+  "race" : "generic",
+
+  "inventoryIcon" : "mondrain_greytree.png",
+  "orientations" : [
+    {
+      "image" : "mondrain_greytree
+  .png:<color>",
+      "imagePosition" : [-13, -13],
+      "direction" : "right",
+
+      "spaceScan" : 0.1,
+      "anchors" : [ "background" ]
+
+    }
+  ]
+}

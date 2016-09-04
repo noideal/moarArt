@@ -3,6 +3,13 @@
       [0,{"pool": 
 			[
             {"weight": 0.005,"item": ["dali_toreador",1]},
+            {"weight": 0.003,"item": ["mondrain_avond",1]},
+            {"weight": 0.003,"item": ["mondrain_blueapple",1]},
+            {"weight": 0.003,"item": ["mondrain_broadway",1]},
+            {"weight": 0.003,"item": ["mondrain_concorde",1]},
+            {"weight": 0.003,"item": ["mondrain_greytree",1]},
+            {"weight": 0.003,"item": ["mondrain_piet",1]},
+            {"weight": 0.003,"item": ["mondrain_trees",1]},
             {"weight": 0.003,"item": ["monet_waterlilies",1]},
             {"weight": 0.005,"item": ["mucha_amethyst",1]},
             {"weight": 0.005,"item": ["mucha_emerald",1]},
