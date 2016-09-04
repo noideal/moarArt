@@ -6,6 +6,10 @@
   "price" : 25000,
   "printable" : false,
 
+  "description" : "Some lovely water full of lilies.",
+  "shortdescription" : "Waterlilies",
+  "race" : "generic",
+
   "apexDescription" : "",
   "avianDescription" : "",
   "floranDescription" : "",
@@ -13,10 +17,6 @@
   "humanDescription" : "",
   "hylotlDescription" : "",
   "novakidDescription" : "",
-
-  "description" : "Some lovely water full of lilies.",
-  "shortdescription" : "Waterlilies",
-  "race" : "generic",
 
   "inventoryIcon" : "monet_waterliliesicon.png",
   "orientations" : [
@@ -27,7 +27,6 @@
 
       "spaceScan" : 0.1,
       "anchors" : [ "background" ]
-
     }
   ]
 }

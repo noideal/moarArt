@@ -18,11 +18,10 @@
   "shortdescription" : "",
   "race" : "generic",
 
-  "inventoryIcon" : "mondrain_greytree.png",
+  "inventoryIcon" : "mondrain_greytreeicon.png",
   "orientations" : [
     {
-      "image" : "mondrain_greytree
-  .png:<color>",
+      "image" : "mondrain_greytree.png:<color>",
       "imagePosition" : [-13, -13],
       "direction" : "right",
 

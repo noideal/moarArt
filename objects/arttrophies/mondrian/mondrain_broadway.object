@@ -18,11 +18,10 @@
   "shortdescription" : "",
   "race" : "generic",
 
-  "inventoryIcon" : "mondrain_broadway.png",
+  "inventoryIcon" : "mondrain_broadwayicon.png",
   "orientations" : [
     {
-      "image" : "mondrain_broadway
-  .png:<color>",
+      "image" : "mondrain_broadway.png:<color>",
       "imagePosition" : [-13, -13],
       "direction" : "right",
 

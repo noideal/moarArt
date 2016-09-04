@@ -18,7 +18,7 @@
   "shortdescription" : "",
   "race" : "generic",
 
-  "inventoryIcon" : "mondrain_trees.png",
+  "inventoryIcon" : "mondrain_treesicon.png",
   "orientations" : [
     {
       "image" : "mondrain_trees.png:<color>",

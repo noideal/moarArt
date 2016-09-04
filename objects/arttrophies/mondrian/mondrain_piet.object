@@ -18,7 +18,7 @@
   "shortdescription" : "",
   "race" : "generic",
 
-  "inventoryIcon" : "mondrain_piet.png",
+  "inventoryIcon" : "mondrain_pieticon.png",
   "orientations" : [
     {
       "image" : "mondrain_piet.png:<color>",

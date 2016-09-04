@@ -18,7 +18,7 @@
   "shortdescription" : "",
   "race" : "generic",
 
-  "inventoryIcon" : "mondrain_avond.png",
+  "inventoryIcon" : "mondrain_avondicon.png",
   "orientations" : [
     {
       "image" : "mondrain_avond.png:<color>",
