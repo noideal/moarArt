@@ -1,5 +1,5 @@
 {
-  "objectName" : "mondrain_concorde",
+  "objectName" : "mondrian_concorde",
   "colonyTags" : ["valuable","odd"],
   "rarity" : "Rare",
   "category" : "decorative",
@@ -15,13 +15,13 @@
   "novakidDescription" : "",
 
   "description" : "",
-  "shortdescription" : "",
+  "shortdescription" : "Concorde",
   "race" : "generic",
 
-  "inventoryIcon" : "mondrain_concordeicon.png",
+  "inventoryIcon" : "mondrian_concordeicon.png",
   "orientations" : [
     {
-      "image" : "mondrain_concorde.png:<color>",
+      "image" : "mondrian_concorde.png:<color>",
       "imagePosition" : [-13, -13],
       "direction" : "right",
 

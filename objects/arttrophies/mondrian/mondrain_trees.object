@@ -1,5 +1,5 @@
 {
-  "objectName" : "mondrain_trees",
+  "objectName" : "mondrian_trees",
   "colonyTags" : ["valuable","odd"],
   "rarity" : "Rare",
   "category" : "decorative",
@@ -15,13 +15,13 @@
   "novakidDescription" : "",
 
   "description" : "",
-  "shortdescription" : "",
+  "shortdescription" : "Trees",
   "race" : "generic",
 
-  "inventoryIcon" : "mondrain_treesicon.png",
+  "inventoryIcon" : "mondrian_treesicon.png",
   "orientations" : [
     {
-      "image" : "mondrain_trees.png:<color>",
+      "image" : "mondrian_trees.png:<color>",
       "imagePosition" : [-13, -13],
       "direction" : "right",
 

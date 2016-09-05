@@ -1,5 +1,5 @@
 {
-  "objectName" : "mondrain_piet",
+  "objectName" : "mondrian_piet",
   "colonyTags" : ["valuable","odd"],
   "rarity" : "Rare",
   "category" : "decorative",
@@ -15,13 +15,13 @@
   "novakidDescription" : "",
 
   "description" : "",
-  "shortdescription" : "",
+  "shortdescription" : "Piet",
   "race" : "generic",
 
-  "inventoryIcon" : "mondrain_pieticon.png",
+  "inventoryIcon" : "mondrian_pieticon.png",
   "orientations" : [
     {
-      "image" : "mondrain_piet.png:<color>",
+      "image" : "mondrian_piet.png:<color>",
       "imagePosition" : [-13, -13],
       "direction" : "right",
 

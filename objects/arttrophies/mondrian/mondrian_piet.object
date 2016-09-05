@@ -1,5 +1,5 @@
 {
-  "objectName" : "mondrian_avond",
+  "objectName" : "mondrian_piet",
   "colonyTags" : ["valuable","odd"],
   "rarity" : "Rare",
   "category" : "decorative",
@@ -15,13 +15,13 @@
   "novakidDescription" : "",
 
   "description" : "",
-  "shortdescription" : "Avond",
+  "shortdescription" : "",
   "race" : "generic",
 
-  "inventoryIcon" : "mondrian_avondicon.png",
+  "inventoryIcon" : "mondrian_pieticon.png",
   "orientations" : [
     {
-      "image" : "mondrian_avond.png:<color>",
+      "image" : "mondrian_piet.png:<color>",
       "imagePosition" : [-13, -13],
       "direction" : "right",
 

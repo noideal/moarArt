@@ -1,5 +1,5 @@
 {
-  "objectName" : "mondrain_blueapple",
+  "objectName" : "mondrian_blueapple",
   "colonyTags" : ["valuable","odd"],
   "rarity" : "Rare",
   "category" : "decorative",
@@ -15,13 +15,13 @@
   "novakidDescription" : "",
 
   "description" : "",
-  "shortdescription" : "",
+  "shortdescription" : "Blue Apple",
   "race" : "generic",
 
-  "inventoryIcon" : "mondrain_blueappleicon.png",
+  "inventoryIcon" : "mondrian_blueappleicon.png",
   "orientations" : [
     {
-      "image" : "mondrain_blueapple.png:<color>",
+      "image" : "mondrian_blueapple.png:<color>",
       "imagePosition" : [-13, -13],
       "direction" : "right",
 

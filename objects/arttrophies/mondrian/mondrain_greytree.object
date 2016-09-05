@@ -1,5 +1,5 @@
 {
-  "objectName" : "mondrain_greytree",
+  "objectName" : "mondrian_greytree",
   "colonyTags" : ["valuable","odd"],
   "rarity" : "Rare",
   "category" : "decorative",
@@ -15,13 +15,13 @@
   "novakidDescription" : "",
 
   "description" : "",
-  "shortdescription" : "",
+  "shortdescription" : "Grey Tree",
   "race" : "generic",
 
-  "inventoryIcon" : "mondrain_greytreeicon.png",
+  "inventoryIcon" : "mondrian_greytreeicon.png",
   "orientations" : [
     {
-      "image" : "mondrain_greytree.png:<color>",
+      "image" : "mondrian_greytree.png:<color>",
       "imagePosition" : [-13, -13],
       "direction" : "right",
 
